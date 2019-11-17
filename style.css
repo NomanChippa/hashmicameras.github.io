@@ -3,6 +3,12 @@
 	margin: 0;
 	padding: 0;
 }
+body
+{
+	
+
+	
+}
 
 ul li
 {
@@ -70,3 +76,10 @@ overflow-y: scroll;
 	height: 100%;
 	width: 100%;
 }
+
+html
+	{
+		scroll-behavior: smooth;
+		overflow-y: scroll;
+		transition: 2s;
+	}
