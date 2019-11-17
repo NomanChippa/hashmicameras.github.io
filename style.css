@@ -78,8 +78,8 @@ overflow-y: scroll;
 }
 
 html
-	{
+{
 		scroll-behavior: smooth;
 		overflow-y: scroll;
 		transition: 2s;
-	}
+}
