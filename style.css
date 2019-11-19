@@ -3,13 +3,11 @@
 	margin: 0;
 	padding: 0;
 }
-body
+.okiee img
 {
-	
-
-	
+	height: 100%;
+	width: 100%;
 }
-
 ul li
 {
 	text-transform: uppercase;
@@ -65,11 +63,6 @@ overflow-y: scroll;
 .card:hover
 {
 	background-color: lightblue;
-}
-.okayg
-{
-	max-height: 100%
-	max-widht: 100%;
 }
 .san img
 {
