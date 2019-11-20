@@ -37,6 +37,12 @@ ul li
 	transition: 0.5s;
 	transform: scale(1.1);
 }
+.container img
+{
+	cursor: move;
+	transition: 0.5s;
+	transform: scale(1.1);
+}
 .nav-link:hover
 {
 	background-color:lightblue;
